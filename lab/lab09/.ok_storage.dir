@@ -1,0 +1,7 @@
+'over-or-under-correct', (0, 70)
+'make-adder-correct', (512, 70)
+'composed-correct', (1024, 70)
+'remove-correct', (1536, 70)
+'What Would Scheme Print?-correct', (2048, 70)
+'filter-lst-correct', (2560, 70)
+'no-repeats-correct', (3072, 70)

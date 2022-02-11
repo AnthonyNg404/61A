@@ -1,0 +1,4 @@
+'wwsd-macros-correct', (0, 70)
+'quasiquote-correct', (512, 70)
+'repeatedly-cube-correct', (1024, 70)
+'scheme-def-correct', (1536, 70)
